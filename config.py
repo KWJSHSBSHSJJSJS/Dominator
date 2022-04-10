@@ -3,7 +3,7 @@
 # --------
 
 # Токен бота, можно получить в https://discord.com/developers.
-TOKEN = 'TOKEN'
+TOKEN = 'OTYyODMyNjU2MDA4MDg5Njcx.YlNRyQ.mdX_sgwb-nCEj3RgvH34klo1e0A'
 
 # Префикс для команд. У каждого бота на сервере должен быть различным.
 PREFIX = '$'
@@ -17,7 +17,7 @@ DELETE_COMMANDS = True
 
 # ID роли, которая будет выдаваться участнику при муте. Для корректной работы роль не должна иметь права
 # "Отправлять сообщения" и "Отправлять TTS сообщения".
-MUTE_ROLE_ID = 12345678123456789
+MUTE_ROLE_ID = 960834750610812978
 
 # Отправлять личные сообщения участникам при наказаниях и их отмене.
 SEND_PUNISHMENT_PERSONAL_MESSAGE = True
@@ -40,7 +40,7 @@ AUTO_ROLE_ID = 123456789123456789
 USE_NEWCOMER_NOTICE = True
 
 # ID канала для получения сообщения, что участник присоединился к серверу.
-NEWCOMER_NOTICE_CHANNEL = 123456789123456789
+NEWCOMER_NOTICE_CHANNEL = 962778477478686741
 
 # ---------------
 # Фильтрация чата
